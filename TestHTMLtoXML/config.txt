@@ -1,0 +1,1 @@
+new-blocklevel-tags:nav, article, aside, figure, section, meter, progress, time, audio, video, command, datalist, details, canvas, dialog, embed, event-source, footer, figcaption, hgroup, keygen, header,mark, output, source, ruby, main, bdi, figcaption, keygen, mark, rp, rt, summary, track, wbr, picture, i, transition
